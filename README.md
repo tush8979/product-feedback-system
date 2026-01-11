@@ -67,4 +67,4 @@ python -m streamlit run app.py
 
 ## 🚀 Live Demo
 
-Live App: https://product-feedback-system.streamlit.app
+Live App: https://appuct-feedback-system-sl9ayrdplrw7pg3yrvxqcn.streamlit.app/
