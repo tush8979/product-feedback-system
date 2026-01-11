@@ -1,0 +1,11 @@
+post_id,name,product,feedback,sentiment,date,likes,dislikes
+1,Amit,iPhone 13,battery drains quickly,NEGATIVE,2026-01-01 10:10,12,3
+2,Ravi,Samsung Galaxy S21,phone heats during gaming,NEGATIVE,2026-01-01 10:20,8,4
+3,Neha,MacBook Air M1,performance is very smooth,POSITIVE,2026-01-01 10:30,20,1
+4,John,OnePlus 9,camera quality is amazing,POSITIVE,2026-01-01 10:40,15,2
+5,Sara,HP Laptop,fan noise is too loud,NEGATIVE,2026-01-01 10:50,6,5
+6,Karan,Redmi Note 12,value for money phone,POSITIVE,2026-01-01 11:00,18,2
+7,Priya,iPhone 14 Pro,display quality is excellent,POSITIVE,2026-01-01 11:10,25,1
+8,Rohit,Samsung Galaxy S22,battery backup is average,NEGATIVE,2026-01-01 11:20,7,3
+9,Anita,Dell XPS 13,lightweight and fast laptop,POSITIVE,2026-01-01 11:30,22,1
+10,Manish,Tata Nexon,car mileage is good,POSITIVE,2026-01-01 11:40,19,2

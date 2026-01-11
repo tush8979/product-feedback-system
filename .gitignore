@@ -1,0 +1,16 @@
+# virtual environment
+.venv/
+venv/
+
+# system files
+.DS_Store
+
+# temp files
+temp.wav
+
+# python cache
+__pycache__/
+*.pyc
+
+# streamlit
+.streamlit/

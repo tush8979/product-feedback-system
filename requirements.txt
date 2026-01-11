@@ -1,0 +1,8 @@
+streamlit
+pandas
+torch
+transformers
+sentence-transformers
+openai-whisper
+ffmpeg-python
+matplotlib
