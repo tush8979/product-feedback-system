@@ -64,3 +64,7 @@ brew install ffmpeg
 
 # run app
 python -m streamlit run app.py
+
+## 🚀 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appuct-feedback-system-sl9ayrdplrw7pg3yrvxqcn.streamlit.app/)
